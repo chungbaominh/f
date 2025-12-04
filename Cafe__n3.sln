@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cafe__n3.Module", "Cafe__n3.Module\Cafe__n3.Module.csproj", "{F9087DF7-A8B7-D624-0760-1BAA5D3E6B81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cafe__n3.Blazor.Server", "Cafe__n3.Blazor.Server\Cafe__n3.Blazor.Server.csproj", "{8A8E9B8A-E69C-EE88-9D0E-44A9C3B87979}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		EasyTest|Any CPU = EasyTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9087DF7-A8B7-D624-0760-1BAA5D3E6B81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9087DF7-A8B7-D624-0760-1BAA5D3E6B81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9087DF7-A8B7-D624-0760-1BAA5D3E6B81}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{F9087DF7-A8B7-D624-0760-1BAA5D3E6B81}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{F9087DF7-A8B7-D624-0760-1BAA5D3E6B81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9087DF7-A8B7-D624-0760-1BAA5D3E6B81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A8E9B8A-E69C-EE88-9D0E-44A9C3B87979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A8E9B8A-E69C-EE88-9D0E-44A9C3B87979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A8E9B8A-E69C-EE88-9D0E-44A9C3B87979}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{8A8E9B8A-E69C-EE88-9D0E-44A9C3B87979}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{8A8E9B8A-E69C-EE88-9D0E-44A9C3B87979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A8E9B8A-E69C-EE88-9D0E-44A9C3B87979}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
